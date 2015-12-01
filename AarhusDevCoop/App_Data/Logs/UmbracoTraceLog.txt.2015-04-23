@@ -1,0 +1,374 @@
+﻿2015-10-23 13:03:16,685 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-10-23 13:03:16,749 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 47ms)
+2015-10-23 13:03:16,773 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-10-23 13:03:17,813 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 1039ms)
+2015-10-23 13:03:18,089 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-10-23 13:03:18,101 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 12ms)
+2015-10-23 13:03:18,101 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-10-23 13:03:18,117 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 14ms)
+2015-10-23 13:03:18,185 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-10-23 13:03:18,201 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 16ms)
+2015-10-23 13:03:18,205 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-10-23 13:03:18,217 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 14ms)
+2015-10-23 13:03:18,353 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-10-23 13:03:18,369 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 14ms)
+2015-10-23 13:03:18,369 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-10-23 13:03:18,381 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 11ms)
+2015-10-23 13:03:21,613 [10] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-10-23 13:03:22,721 [10] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-10-23 13:03:26,933 [10] INFO  Umbraco.Web.UmbracoModule - [Thread 9] Setting OriginalRequestUrl: localhost:56765/umbraco
+2015-10-23 13:03:27,509 [10] INFO  umbraco.content - [Thread 9] Loading content from disk cache...
+2015-10-23 13:03:27,989 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-10-23 13:03:28,011 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 18ms)
+2015-10-23 13:03:30,456 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-10-23 13:03:30,508 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 45 (took 52ms)
+2015-10-23 13:04:00,962 [10] INFO  Umbraco.Web.Security.WebSecurity - [Thread 9] User Id: 0 logged in
+2015-10-23 13:04:01,553 [10] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-10-23 13:04:01,568 [10] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 19ms)
+2015-10-23 13:04:01,981 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of umbraco.interfaces.IApplication
+2015-10-23 13:04:02,009 [10] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 28ms)
+2015-10-23 13:04:02,401 [10] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of umbraco.interfaces.ITree
+2015-10-23 13:04:02,461 [10] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 61ms)
+2015-10-23 13:04:02,541 [10] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-10-23 13:04:02,541 [10] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-10-23 13:04:02,549 [10] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of umbraco.interfaces.ITree
+2015-10-23 13:04:02,631 [10] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 89ms)
+2015-10-23 13:04:40,019 [10] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-02-22 13:04:39
+2015-10-23 13:05:58,925 [10] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-10-23 13:05:58,957 [10] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 33ms)
+2015-10-23 13:20:19,952 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Determining hash of code files on disk
+2015-10-23 13:20:19,992 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Hash determined (took 28ms)
+2015-10-23 13:20:20,012 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-10-23 13:20:20,056 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 44ms)
+2015-10-23 13:20:20,296 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-10-23 13:20:20,300 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2015-10-23 13:20:20,300 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-10-23 13:20:20,304 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 4ms)
+2015-10-23 13:20:20,344 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-10-23 13:20:20,348 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 4ms)
+2015-10-23 13:20:20,352 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-10-23 13:20:20,360 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 10ms)
+2015-10-23 13:20:20,460 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-10-23 13:20:20,460 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 2ms)
+2015-10-23 13:20:20,464 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-10-23 13:20:20,464 [30] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2015-10-23 13:20:22,432 [30] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 33] Initializing Examine and binding to business logic events
+2015-10-23 13:20:22,776 [30] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 33] Adding examine event handlers for index providers: 3
+2015-10-23 13:20:23,968 [30] INFO  Umbraco.Web.UmbracoModule - [Thread 7] Setting OriginalRequestUrl: localhost:56765/umbraco
+2015-10-23 13:20:30,030 [10] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 29] Application shutdown. Reason: ConfigurationChange
+2015-10-23 13:21:25,739 [30] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-02-22 13:21:25
+2015-10-23 13:25:57,224 [30] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-10-23 13:25:57,232 [30] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 5ms)
+2015-10-23 13:25:57,716 [30] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-10-23 13:25:57,724 [30] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 45 (took 4ms)
+2015-10-23 13:26:50,156 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-10-23 13:26:50,160 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 3ms)
+2015-10-23 13:26:50,168 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2015-10-23 13:26:50,172 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 3ms)
+2015-10-23 13:26:50,204 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2015-10-23 13:26:50,208 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 3ms)
+2015-10-23 13:26:50,248 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplication
+2015-10-23 13:26:50,252 [30] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 4ms)
+2015-10-23 13:28:20,366 [30] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of umbraco.interfaces.IAction
+2015-10-23 13:28:20,486 [30] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of umbraco.interfaces.IAction, found 34 (took 119ms)
+2015-10-23 13:30:20,856 [30] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-10-23 13:30:20,864 [30] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 6ms)
+2015-10-23 13:50:37,438 [30] INFO  umbraco.content - [Thread 36] Loading content from disk cache...
+2015-10-23 14:03:26,548 [30] INFO  Umbraco.Web.Security.WebSecurity - [Thread 76] User Id: 0 logged in
+2015-10-23 14:31:43,523 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 72] Content 'Contact Us' with Id '0' has been published.
+2015-10-23 14:32:18,019 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 75] Content 'Contact Us' with Id '1095' has been unpublished.
+2015-10-23 14:33:43,408 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 75] Content 'New Page' with Id '1082' has been unpublished.
+2015-10-23 14:56:34,788 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'Contact Us' with Id '0' has been published.
+2015-10-23 14:58:52,788 [30] INFO  Umbraco.Core.PluginManager - [Thread 58] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-10-23 14:58:52,788 [30] INFO  Umbraco.Core.PluginManager - [Thread 58] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 1ms)
+2015-10-23 15:00:47,214 [30] INFO  umbraco.content - [Thread 49] Loading content from database...
+2015-10-23 15:26:52,743 [30] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-10-23 15:26:52,743 [30] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-10-23 15:43:10,307 [30] INFO  Umbraco.Web.Security.WebSecurity - [Thread 17] User Id: 0 logged in
+2015-10-23 15:51:37,180 [30] INFO  Umbraco.Core.PluginManager - [Thread 63] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-10-23 15:51:37,180 [30] INFO  Umbraco.Core.PluginManager - [Thread 63] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-10-23 15:52:44,307 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 23] Content 'Home' with Id '1075' has been published.
+2015-10-23 15:53:08,006 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 63] Content 'Home' with Id '1075' has been published.
+2015-10-23 16:14:43,967 [30] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 23] An unhandled exception occurred
+System.Web.HttpCompileException (0x80004005): c:\Users\eferwe\Documents\Visual Studio 2013\Projects\mariyaUmbracoMA\mariyaUmbracoMA\Views\Home1.cshtml(4): error CS1002: ; expected
+   at System.Web.Compilation.AssemblyBuilder.Compile()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.FileExists(String virtualPath)
+   at System.Web.Mvc.BuildManagerViewEngine.FileExists(ControllerContext controllerContext, String virtualPath)
+   at Microsoft.Web.Mvc.FixedRazorViewEngine.Microsoft.Web.Mvc.IViewEngineProxy.FileExists(ControllerContext controllerContext, String virtualPath)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.<>c__DisplayClass4.<GetPathFromGeneralName>b__0(String path)
+   at System.Web.WebPages.DefaultDisplayMode.GetDisplayInfo(HttpContextBase httpContext, String virtualPath, Func`2 virtualPathExists)
+   at System.Web.WebPages.DisplayModeProvider.<>c__DisplayClassb.<GetDisplayInfoForVirtualPath>b__8(IDisplayMode mode)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at System.Web.WebPages.DisplayModeProvider.GetDisplayInfoForVirtualPath(String virtualPath, HttpContextBase httpContext, Func`2 virtualPathExists, IDisplayMode currentDisplayMode, Boolean requireConsistentDisplayMode)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.GetPathFromGeneralName(ControllerContext controllerContext, List`1 locations, String name, String controllerName, String areaName, String cacheKey, String[]& searchedLocations)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.GetPath(ControllerContext controllerContext, String[] locations, String[] areaLocations, String locationsPropertyName, String name, String controllerName, String cacheKeyPrefix, Boolean useCache, String[]& searchedLocations)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.FindView(ControllerContext controllerContext, String viewName, String masterName, Boolean useCache)
+   at Microsoft.Web.Mvc.FixedRazorViewEngine.FindView(ControllerContext controllerContext, String viewName, String masterName, Boolean useCache)
+   at Umbraco.Web.Mvc.RenderViewEngine.FindView(ControllerContext controllerContext, String viewName, String masterName, Boolean useCache)
+   at Umbraco.Core.Profiling.ProfilingViewEngine.FindView(ControllerContext controllerContext, String viewName, String masterName, Boolean useCache)
+   at System.Web.Mvc.ViewEngineCollection.<>c__DisplayClassc.<FindView>b__b(IViewEngine e)
+   at System.Web.Mvc.ViewEngineCollection.Find(Func`2 lookup, Boolean trackSearchedPaths)
+   at System.Web.Mvc.ViewEngineCollection.FindView(ControllerContext controllerContext, String viewName, String masterName)
+   at Umbraco.Web.Mvc.RenderMvcController.EnsurePhsyicalViewExists(String template)
+   at Umbraco.Web.Mvc.RenderMvcController.CurrentTemplate[T](T model)
+   at Umbraco.Web.Mvc.RenderMvcController.Index(RenderModel model)
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-10-23 16:18:22,083 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 13] Content 'Home' with Id '1075' has been published.
+2015-10-23 16:18:57,698 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 70] Content 'Home' with Id '1075' has been published.
+2015-10-23 16:20:25,443 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 70] Content 'Home' with Id '1075' has been published.
+2015-10-23 16:28:31,331 [30] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 59] An unhandled exception occurred
+System.Web.HttpParseException (0x80004005): The 'inherits' keyword is not allowed when a 'model' keyword is used.
+
+   at System.Web.WebPages.Razor.RazorBuildProvider.EnsureGeneratedCode()
+   at System.Web.WebPages.Razor.RazorBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-10-23 16:29:27,702 [30] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 58] An unhandled exception occurred
+System.Web.HttpParseException (0x80004005): The 'inherits' keyword is not allowed when a 'model' keyword is used.
+
+   at System.Web.WebPages.Razor.RazorBuildProvider.EnsureGeneratedCode()
+   at System.Web.WebPages.Razor.RazorBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-10-23 16:29:31,827 [30] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 66] An unhandled exception occurred
+System.Web.HttpParseException (0x80004005): The 'inherits' keyword is not allowed when a 'model' keyword is used.
+
+   at System.Web.WebPages.Razor.RazorBuildProvider.EnsureGeneratedCode()
+   at System.Web.WebPages.Razor.RazorBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-10-23 16:29:36,854 [30] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 70] An unhandled exception occurred
+System.Web.HttpParseException (0x80004005): The 'inherits' keyword is not allowed when a 'model' keyword is used.
+
+   at System.Web.WebPages.Razor.RazorBuildProvider.EnsureGeneratedCode()
+   at System.Web.WebPages.Razor.RazorBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-10-23 16:30:00,086 [30] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 50] An unhandled exception occurred
+System.Web.HttpCompileException (0x80004005): c:\Users\eferwe\AppData\Local\Temp\Temporary ASP.NET Files\vs\2f62e47a\4b5b6175\App_Web_contactpage.cshtml.65a2d1ee.m4jbgh80.0.cs(35): error CS0246: The type or namespace name 'AarhusWebDevCoop' could not be found (are you missing a using directive or an assembly reference?)
+   at System.Web.Compilation.AssemblyBuilder.Compile()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-10-23 17:04:48,762 [30] INFO  Umbraco.Web.Security.WebSecurity - [Thread 31] User Id: 0 logged in
+2015-10-23 17:05:22,432 [30] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 32] Content 'Contact Us' with Id '1096' has been published.

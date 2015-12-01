@@ -1,0 +1,56 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+@*
+    This snippet makes a list of links to the of parents of the current page using an unordered html list.
+
+    How it works:
+    - It uses the Ancestors() method to get all parents and then generates links so the visitor can go back
+    - Finally it outputs the name of the current page (without a link)
+    Where("Visible").
+*@
+
+  
+
+@{ var projectDropdown = CurrentPage.Site().Children.Where("DocumentTypeAlias == \"ProjectMain\"").First().Children.OrderBy("Name"); }
+ 
+<ul class="nav navbar-nav">
+    @foreach (var menuItem in CurrentPage.Site().Children.Where("Visible"))
+    {
+
+
+
+        if (menuItem.Name != "Projects List")
+        {
+            <li class="@(menuItem.IsAncestorOrSelf(CurrentPage) ? "active" : null)">
+                <a href="@menuItem.Url">@menuItem.Name</a>
+            </li>
+        }
+        else
+        {
+            <li class="dropdown @(menuItem.IsAncestorOrSelf(CurrentPage) ? "active" : null)">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Our Projects<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                    @foreach (var subMenuItem in projectDropdown)
+                    {
+
+                        <li>
+                            <a href="@subMenuItem.Url">@subMenuItem.Name</a>
+                        </li>
+                        
+                        if ((umbraco.library.GetPreValueAsString(subMenuItem.projectStatus)) == "Completed")
+                        {
+                            @* Display only submenu items users have access to *@
+                            if (!umbraco.library.IsProtected(subMenuItem.id, subMenuItem.path) ||
+                                umbraco.library.IsProtected(subMenuItem.id, subMenuItem.path) && umbraco.library.HasAccess(subMenuItem.id, subMenuItem.path))
+                            {
+                                <li>
+                                    <a href="@subMenuItem.Url">@subMenuItem.Name</a>
+                                </li>
+                            }
+                        }
+                    }
+                </ul>
+            </li>
+        }
+    }
+</ul>
